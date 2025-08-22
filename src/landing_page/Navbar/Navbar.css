@@ -1,0 +1,43 @@
+/* General Navbar Style */
+.custom-navbar {
+    background-color: #fff;
+    padding: 12px 0;
+    border-bottom: 1px solid #eaeaea;
+    font-family: "Inter", Arial, sans-serif;
+}
+
+/* Brand Logo */
+.navbar-brand img {
+    height: 20px;
+}
+
+/* Nav Links */
+.navbar-nav .nav-link {
+    color: #666;
+    font-size: 15px;
+    font-weight: 400;
+    margin: 0 10px;
+    transition: color 0.3s ease;
+}
+
+
+/* Hover Effect */
+.navbar-nav .nav-link:hover {
+    color: #387ed1;
+    /* Zerodha Blue */
+}
+
+/* Active Link */
+.navbar-nav .nav-link.active {
+    color: #387ed1;
+}
+
+
+/* Mobile Menu Toggle */
+.navbar-toggler {
+    border: none;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
+}

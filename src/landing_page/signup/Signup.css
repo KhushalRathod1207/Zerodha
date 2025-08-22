@@ -1,0 +1,111 @@
+/* === Zerodha-like global resets === */
+body {
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 600;
+    color: #1c1c1c;
+}
+
+a {
+    color: #387ed1;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* === Signup Section === */
+.signup-container {
+    max-width: 1100px;
+}
+
+.signup-heading {
+    font-size: 1.25rem;
+}
+
+.signup-subtitle {
+    font-size: 1rem;
+}
+
+.signup-visual {
+    max-width: 420px;
+}
+
+.country-code {
+    border: none;
+    font-size: 0.95rem;
+}
+
+.mobile-input {
+    border-left: none !important;
+}
+
+.get-otp-btn {
+    font-size: 0.95rem;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+.signup-terms {
+    font-size: 0.8rem;
+}
+
+/* === Account Types === */
+.card {
+    border: 1px solid #eaeaea;
+    transition: all 0.25s ease;
+}
+
+.card:hover {
+    border-color: #387ed1;
+    transform: translateY(-4px);
+}
+
+.card-body h6 {
+    font-size: 0.95rem;
+}
+
+.card-body p {
+    font-size: 0.8rem;
+}
+
+/* === Investment === */
+section {
+    scroll-margin-top: 100px;
+}
+
+.btn-primary {
+    background-color: #387ed1;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #2f67a6;
+}
+
+/* === StepsOpenAccount === */
+.steps-section span {
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+/* === FAQ === */
+.faq-question {
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.faq-answer {
+    font-size: 0.9rem;
+    color: #666;
+}

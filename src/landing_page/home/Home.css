@@ -1,0 +1,181 @@
+/* Hero Section - Zerodha style */
+.hero-section {
+    padding: 6rem 0 !important;
+}
+
+.hero-img {
+    max-height: 45vh;
+}
+
+.hero-title {
+    font-size: 2.25rem;
+    /* slightly bigger */
+    font-weight: 500;
+    color: #424242;
+    /* dark grey */
+    line-height: 1.3;
+}
+
+.hero-subtitle {
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: #757575;
+    /* muted grey */
+}
+
+.hero-btn {
+    background-color: #387ed1;
+    /* Zerodha blue */
+    border: none;
+    border-radius: 4px;
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: #fff;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.hero-btn:hover {
+    background-color: #2f6db8;
+    /* darker blue hover */
+}
+
+
+
+
+/* Trust Section - Zerodha style */
+.trust-section {
+    background-color: #fff;
+}
+
+.trust-title {
+    font-size: 2rem;
+    font-weight: 500;
+    color: #1a1a1a;
+}
+
+.trust-subtitle {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #666;
+    margin-bottom: 0.4rem;
+    line-height: 44px;
+}
+
+.trust-text {
+    font-size: 1rem;
+    line-height: 1.7;
+    color: #666;
+    margin-bottom: 0;
+}
+
+.zerodha-link {
+    color: #387ed1;
+    font-weight: 500;
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+}
+
+.zerodha-link:hover {
+    text-decoration: underline;
+    color: #2f6db8;
+    /* darker hover */
+}
+
+.trust-img {
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+.press-logos {
+    max-width: 100%;
+    height: auto;
+    opacity: 0.85;
+    cursor: pointer;
+    transition: opacity 0.2s ease-in-out;
+}
+
+.press-logos:hover {
+    opacity: 1;
+}
+
+/* Pricing Section - Zerodha style */
+.pricing-section {
+    background-color: #fff;
+}
+
+.pricing-title {
+    font-size: 1.75rem;
+    font-weight: 500;
+    color: #424242;
+    line-height: 1.4;
+}
+
+.pricing-text {
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 1rem;
+}
+
+.zerodha-link {
+    color: #387ed1;
+    font-weight: 500;
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+}
+
+.zerodha-link:hover {
+    text-decoration: underline;
+    color: #2f6db8;
+}
+
+.pricing-item {
+    flex: 1 1 30%;
+    min-width: 200px;
+}
+
+.pricing-icon {
+    height: 70px;
+    margin-right: 10px;
+}
+
+.pricing-label {
+    color: #424242;
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
+/* Education Section - Zerodha style */
+.education-section {
+    background-color: #fff;
+}
+
+.education-img {
+    max-width: 100%;
+    height: auto;
+}
+
+.education-title {
+    font-size: 1.75rem;
+    font-weight: 500;
+    color: #424242;
+    line-height: 1.4;
+}
+
+.education-text {
+    font-size: 1rem;
+    color: #666;
+}
+
+.zerodha-link {
+    color: #387ed1;
+    font-weight: 500;
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+}
+
+.zerodha-link:hover {
+    text-decoration: underline;
+    color: #2f6db8;
+    /* darker blue hover */
+}
