@@ -1,0 +1,31 @@
+1. Tools Required
+- Visual Studio Code (Code editor)
+- Google Chrome (Output preview)
+- Node.js (JavaScript runtime)
+- Git (Version control)
+- GitHub (Remote code repository)
+
+2. Frontend Technologies
+- HTML, CSS, JavaScript
+- React.js
+- Bootstrap
+- Material UI
+
+3. Backend Technologies
+- Node.js
+- Express.js
+
+4. Database Configuration
+- MongoDB
+
+5. Testing Framework
+- Jest
+
+6. Deployment Platform
+- AWS (Amazon Web Services)
+
+7. GitHub Setup
+- Create a repository on GitHub
+- Initialize local repo with 'git init'
+- Add remote: 'git remote add origin <repo-url>'
+- Use branches for features and open pull requests for reviews
